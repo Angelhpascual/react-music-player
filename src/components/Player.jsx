@@ -60,7 +60,7 @@ export default function Player() {
       <h2>Playing Now</h2>
       <img className="musicCover" src="https://picsum.photos/200/200" alt="" />
       <div>
-        <h3 className="title">Led Zeppeling</h3>
+        <h3 className="title">Led Zeppelin</h3>
         <p className="subtitle">Whole Lotta Love</p>
       </div>
       <div>
